@@ -32,11 +32,10 @@ bot.on('message',async (msg) => {
 
 
     process.env["NTBA_FIX_350"] = 1; 
-    console.log(msg.from.first_name,"s" )
-    let geek_list = [], name_list = [];
+    let geek_list = [], name_list = [], count_msg = [];
    
     const geek = { 
-        'first_name'    : msg.first_name , 
+        'first_name'    : msg.from.first_name , 
         'last-name'     : msg.from.last_name ,
         'user_name'     : msg.from.username  ,
         'commands'   : [{}]
@@ -48,8 +47,12 @@ bot.on('message',async (msg) => {
         name_list.push(ele.first_name)
     })
 
-    console.log(geek_list,"geek")
+    count_msg.push(msg.text)
+
+
     console.log(_.uniq(name_list),"Namelist")
+    console.log(count_msg,"count list")
+
     
     // console.log(geek,"geek")
 
