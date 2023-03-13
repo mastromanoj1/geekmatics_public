@@ -32,15 +32,26 @@ bot.on('message',async (msg) => {
 
 
     process.env["NTBA_FIX_350"] = 1; 
+    console.log(msg.from.first_name,"s" )
+    let geek_list = [], name_list = [];
+   
     const geek = { 
-        'first_name'    : msg.from.first_name , 
+        'first_name'    : msg.first_name , 
         'last-name'     : msg.from.last_name ,
         'user_name'     : msg.from.username  ,
-        'req_command'   : msg.text
+        'commands'   : [{}]
     }
 
     geek_list.push(geek);
-    console.log(geek,"geek")
+
+    geek_list.forEach((ele) => {
+        name_list.push(ele.first_name)
+    })
+
+    console.log(geek_list,"geek")
+    console.log(_.uniq(name_list),"Namelist")
+    
+    // console.log(geek,"geek")
 
     let text = msg.text;
     let chat_id = msg.chat.id;
