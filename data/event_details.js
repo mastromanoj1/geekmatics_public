@@ -116,39 +116,39 @@ module.exports = [
             { host_name : ' Anushiya N ',host_number : "94425231XX"},                            
                         ]
     },
-    // {
-    //     event_name : " CODE RACE ",
-    //     event_details : "✓ Maximum of 2 teams allowed to participate from a college.\n" +
-    //     "✓ Each team having a maximum of 2 members. ✓ Events consist of two rounds (Prelims and Final)\n"+
-    //     "✓ Prelims will be an MCQ based.\n"+ 
-    //     "✓ In the final round, Participants will be asked to solve one problem within 30 minutes of the time limit.\n"+ 
-    //     "✓ Participants can be used anyone programming language like Java, Python, C / C++.\n"+ 
-    //     "✓ Final round will be on the Online Compiler.\n"+
-    //     "✓ If any team can try to copy the code or any such kind of malpractices, will be disqualified immediately.\n"+ 
-    //     "✓ Judges’ decisions will be final\n",
-    //     event_sponser : "./image/photo1.png",
-    //     event_manager : [
-    //                         { host_name : ' Mrs.S.Saranya ',host_number : "94425231XX"},
-    //                         { host_name : ' Vignesh S ',host_number : "94425231XX"},                            
-    //                         { host_name : 'Swetha R (B Section) ',host_number : "94425231XX"},                            
-    //                     ]
-    // },
-    // {
-    //     event_name : "AD MAD SHOW",
-    //     event_details : "✓ A college can send 1 team with a maximum of 3 - 6 participants.\n"+
-    //   "✓ Teams shall be given 5 minutes of preparation time.\n"+
-    //   "✓ The participating team shall be allowed to perform for 3-5 minutes.\n"+ 
-    //   "✓ Content Restrictions. No vulgarity.\n"+ 
-    //   "✓ Topic will be provided on the spot.\n"+ 
-    //   "✓ Judges’ decisions will be final./n",
-    //     event_sponser : "./image/photo1.png",
-    //     event_manager : [
-    //         { host_name : ' Mrs.P.Sneha ',host_number : "94425231XX"}, 
-    //         { host_name : ' Kishore Kumar ',host_number : "94425231XX"},
-    //         { host_name : 'Subiksha ',host_number : "94425231XX"},
+    {
+        event_name : " CODE RACE ",
+        event_details : "✓ Maximum of 2 teams allowed to participate from a college.\n" +
+        "✓ Each team having a maximum of 2 members. ✓ Events consist of two rounds (Prelims and Final)\n"+
+        "✓ Prelims will be an MCQ based.\n"+ 
+        "✓ In the final round, Participants will be asked to solve one problem within 30 minutes of the time limit.\n"+ 
+        "✓ Participants can be used anyone programming language like Java, Python, C / C++.\n"+ 
+        "✓ Final round will be on the Online Compiler.\n"+
+        "✓ If any team can try to copy the code or any such kind of malpractices, will be disqualified immediately.\n"+ 
+        "✓ Judges’ decisions will be final\n",
+        event_sponser : "./image/photo1.png",
+        event_manager : [
+                            { host_name : ' Mrs.S.Saranya ',host_number : "94425231XX"},
+                            { host_name : ' Vignesh S ',host_number : "94425231XX"},                            
+                            { host_name : 'Swetha R (B Section) ',host_number : "94425231XX"},                            
+                        ]
+    },
+    {
+        event_name : "AD MAD SHOW",
+        event_details : "✓ A college can send 1 team with a maximum of 3 - 6 participants.\n"+
+      "✓ Teams shall be given 5 minutes of preparation time.\n"+
+      "✓ The participating team shall be allowed to perform for 3-5 minutes.\n"+ 
+      "✓ Content Restrictions. No vulgarity.\n"+ 
+      "✓ Topic will be provided on the spot.\n"+ 
+      "✓ Judges’ decisions will be final./n",
+        event_sponser : "./image/photo1.png",
+        event_manager : [
+            { host_name : ' Mrs.P.Sneha ',host_number : "94425231XX"}, 
+            { host_name : ' Kishore Kumar ',host_number : "94425231XX"},
+            { host_name : 'Subiksha ',host_number : "94425231XX"},
                                      
-    //                     ]
-    // },
+                        ]
+    },
     // {
     //     event_name : "CONNECTION ",
     //     event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+ 
