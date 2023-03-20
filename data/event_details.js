@@ -149,34 +149,34 @@ module.exports = [
                                      
                         ]
     },
-    // {
-    //     event_name : "CONNECTION ",
-    //     event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+ 
-    //     "✓ The competition will be carried out in 2 Rounds (Preliminary & Finals). \n"+
-    //     "✓ Discussion allowed for 2 minutes.\n"+ 
-    //     "✓ Mobile phones are not allowed. \n",
-    //     event_sponser : "./image/photo1.png",
-    //     event_manager : [
-    //         { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
-    //         { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
-    //         { host_name : 'Sakthisri',host_number : "94425231XXx"},                            
-    //                     ]
-    // },
-    // {
-    //     event_name : " TREASURE HUNT ",
-    //     event_details : "✓ A college can send 2 teams with a maximum of 4 participants each.\n"+ 
-    //    "✓ Round 1 o General knowledge conducts up to 30 minutes.\n"+ 
-    //    "✓ Round 2 o Main Hunt wants to find. Time duration will be 1.5 Hours.\n"+ 
-    //    "✓ Mobile phones are not allowed.\n "+
-    //    "✓ One team only get title of winner. Result will finalize by judges based on gathering Hunt Hint.\n"+ 
-    //    "✓ A team will get the last hint will be announced as the winner. ",
-    //     event_sponser : "./image/photo1.png",
-    //     event_manager : [
-    //                         { host_name : 'Mrs. S. Saranya',host_number : "94425231XX"},
-    //                         { host_name : 'Sanjay Prakash R' ,host_number : "94425231XX"},                            
-    //                         { host_name : ' Sathya N ',host_number : "94425231XX"},                            
-    //                     ]
-    // },
+    {
+        event_name : "CONNECTION ",
+        event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+ 
+        "✓ The competition will be carried out in 2 Rounds (Preliminary & Finals). \n"+
+        "✓ Discussion allowed for 2 minutes.\n"+ 
+        "✓ Mobile phones are not allowed. \n",
+        event_sponser : "./image/photo1.png",
+        event_manager : [
+            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
+            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
+            { host_name : 'Sakthisri',host_number : "94425231XXx"},                            
+                        ]
+    },
+    {
+        event_name : " TREASURE HUNT ",
+        event_details : "✓ A college can send 2 teams with a maximum of 4 participants each.\n"+ 
+       "✓ Round 1 o General knowledge conducts up to 30 minutes.\n"+ 
+       "✓ Round 2 o Main Hunt wants to find. Time duration will be 1.5 Hours.\n"+ 
+       "✓ Mobile phones are not allowed.\n "+
+       "✓ One team only get title of winner. Result will finalize by judges based on gathering Hunt Hint.\n"+ 
+       "✓ A team will get the last hint will be announced as the winner. ",
+        event_sponser : "./image/photo1.png",
+        event_manager : [
+                            { host_name : 'Mrs. S. Saranya',host_number : "94425231XX"},
+                            { host_name : 'Sanjay Prakash R' ,host_number : "94425231XX"},                            
+                            { host_name : ' Sathya N ',host_number : "94425231XX"},                            
+                        ]
+    },
     // {
     //     event_name : "PHOTOGRAPHY ",
     //     event_details : "✓ Individual Event.\n"+ 
