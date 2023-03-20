@@ -177,22 +177,22 @@ module.exports = [
                             { host_name : ' Sathya N ',host_number : "94425231XX"},                            
                         ]
     },
-    // {
-    //     event_name : "PHOTOGRAPHY ",
-    //     event_details : "✓ Individual Event.\n"+ 
-    //     "✓ Campus photography, Portrait photography, Panorama photography & Nature photography. Choose any one theme and submit the 3 best photographs.\n"+ 
-    //     "✓ The photographs that are submitted should be captured within the campus.\n"+ 
-    //     "✓ No edits, no filters. \n"+
-    //     "✓ Mobile phones & Cameras are allowed to take photos.\n"+ 
-    //     "✓ Submit it on event day within 12.30 pm.\n"+ 
-    //     "✓ Photographs should not include any kind of vulgarity or offensive matter.\n"+ 
-    //     "✓ Th judge’s decision will be the final/n",
-    //     event_sponser : "./image/photo1.png",
-    //     event_manager : [
-    //         { host_name : ' Mr.S.Boopalan ',host_number : "94425231XX"},
-    //         { host_name : ' Hariharan S',host_number : "xxx"},
-    //         { host_name : ' Vikram Pandian K',host_number : "94425231XX"},                            
-    //         { host_name : 'Monisha ',host_number : "94425231XX"},                            
-    //                     ]
-    // }
+    {
+        event_name : "PHOTOGRAPHY ",
+        event_details : "✓ Individual Event.\n"+ 
+        "✓ Campus photography, Portrait photography, Panorama photography & Nature photography. Choose any one theme and submit the 3 best photographs.\n"+ 
+        "✓ The photographs that are submitted should be captured within the campus.\n"+ 
+        "✓ No edits, no filters. \n"+
+        "✓ Mobile phones & Cameras are allowed to take photos.\n"+ 
+        "✓ Submit it on event day within 12.30 pm.\n"+ 
+        "✓ Photographs should not include any kind of vulgarity or offensive matter.\n"+ 
+        "✓ Th judge’s decision will be the final/n",
+        event_sponser : "./image/photo1.png",
+        event_manager : [
+            { host_name : ' Mr.S.Boopalan ',host_number : "94425231XX"},
+            { host_name : ' Hariharan S',host_number : "xxx"},
+            { host_name : ' Vikram Pandian K',host_number : "94425231XX"},                            
+            { host_name : 'Monisha ',host_number : "94425231XX"},                            
+                        ]
+    }
 ]
