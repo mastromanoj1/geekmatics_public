@@ -93,29 +93,29 @@ module.exports = [
                             { host_name : 'Astle Antony ',host_number : "94425231XX"},                            
                         ]
     },
-    // {
-    //     event_name : "CODE DEBUGGING ",
-    //     event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
-    //     "✓ Duration of the event will be half an hour. ✓ Bug may be of any type.\n"+
-    //     "✓ The language used will be C/C++/Java/Python.\n"+
-    //     "✓ Stage rounds: The debugging will have 2 rounds total (Preliminary & Debugging).\n"+
-    //       "\to Round 1:  ▪ Each team will be provided with an Objective type of question paper, overwrite of answers will not be rewarded.\n"+
-    //        "\t\t▪ Time limit for the first round will be 30 minutes. \n"+
-    //        "\t\t▪ Each question carries one mark and no negative mark for wrong answers.\n"+ 
-    //        "\t\t▪ Mobile phone usage is not allowed, and any malpractice will be disqualified.\n"+ 
-    //     "\to Round 2:  ▪ Debugging: The code will be displayed on the allotted screen (system).\n"+
-    //     "\t\t▪ Time limit for the second round will be 30 minutes.\n"+ 
-    //     "\t\t▪ The team that clears more errors will be the winner./n"+ 
-    //     "\to If any team can try to copy the code or any such kind of malpractices, will be disqualified immediately.\n"+ 
-    //     "\to Judges decisions will be final/n",
-    //     event_sponser : "./image/photo1.png",
-    //     event_manager : [
-    //         { host_name : ' Dr.G.Rajesh ',host_number : "94425231XX"},
-    //         { host_name : ' Mr.D.Surendren ',host_number : "94425231XX"},
-    //         { host_name : ' Muthaiya C ',host_number : "94425231XX"},
-    //         { host_name : ' Anushiya N ',host_number : "94425231XX"},                            
-    //                     ]
-    // },
+    {
+        event_name : "CODE DEBUGGING ",
+        event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
+        "✓ Duration of the event will be half an hour. ✓ Bug may be of any type.\n"+
+        "✓ The language used will be C/C++/Java/Python.\n"+
+        "✓ Stage rounds: The debugging will have 2 rounds total (Preliminary & Debugging).\n"+
+          "\to Round 1:  ▪ Each team will be provided with an Objective type of question paper, overwrite of answers will not be rewarded.\n"+
+           "\t\t▪ Time limit for the first round will be 30 minutes. \n"+
+           "\t\t▪ Each question carries one mark and no negative mark for wrong answers.\n"+ 
+           "\t\t▪ Mobile phone usage is not allowed, and any malpractice will be disqualified.\n"+ 
+        "\to Round 2:  ▪ Debugging: The code will be displayed on the allotted screen (system).\n"+
+        "\t\t▪ Time limit for the second round will be 30 minutes.\n"+ 
+        "\t\t▪ The team that clears more errors will be the winner./n"+ 
+        "\to If any team can try to copy the code or any such kind of malpractices, will be disqualified immediately.\n"+ 
+        "\to Judges decisions will be final/n",
+        event_sponser : "./image/photo1.png",
+        event_manager : [
+            { host_name : ' Dr.G.Rajesh ',host_number : "94425231XX"},
+            { host_name : ' Mr.D.Surendren ',host_number : "94425231XX"},
+            { host_name : ' Muthaiya C ',host_number : "94425231XX"},
+            { host_name : ' Anushiya N ',host_number : "94425231XX"},                            
+                        ]
+    },
     // {
     //     event_name : " CODE RACE ",
     //     event_details : "✓ Maximum of 2 teams allowed to participate from a college.\n" +
