@@ -1,6 +1,18 @@
 const TelegramBot = require('node-telegram-bot-api');
 const express = require('express')
 const _ = require('lodash');
+const fs = require('fs');
+
+let student = { 
+    name: 'MAnoj',
+    age: 23, 
+    gender: 'Male',
+    department: 'English',
+    car: 'Honda' 
+};
+ 
+let data = JSON.stringify(student);
+fs.writeFileSync('student-2.json', data);
 
 //Event data from files
 const live_msg = require('./data/live_updates')

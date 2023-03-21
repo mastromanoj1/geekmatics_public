@@ -31,9 +31,9 @@ module.exports = [
         " ✓ Equal participation by all the team members during the presentation. \n" ,
         event_sponser : "./image/photo1.png",
         event_manager : [
-                            { host_name : ' Yemunarane Staff',host_number : "9942972062"},
-                            { host_name : ' Naresh Studnet',host_number : "9361044319"},
-                            { host_name : ' Harini Studnet',host_number : "8610126397"}                            
+                            { host_name : 'Mrs Jayanthi',host_number : "9952225970"},
+                            { host_name : 'Mr Naresh',host_number : "9361044319"},
+                            { host_name : 'Ms Harini',host_number : "8610126397"}                            
                         ]
     },
     {
@@ -49,9 +49,9 @@ module.exports = [
               "✓ Round 2\n" +"/t o The selected teams should present a prototype based on their idea. Participants will be getting extra points if the prototype is working.\n ",
         event_sponser : "./image/photo1.png",
         event_manager : [
-                            { host_name : 'Mrs.K.Jayanthi staff',host_number : "9952225970"},
-                            { host_name : 'Naresh.K.K student',host_number : "9361044319"},                            
-                            { host_name : 'Harini.S student',host_number : "need to get"},                            
+                            { host_name : 'Mrs Jayanthi',host_number : "9952225970"},
+                            { host_name : 'Mr Naresh',host_number : "9361044319"},
+                            { host_name : 'Ms Harini',host_number : "8610126397"}                            
                         ]
     },
     {
@@ -68,10 +68,9 @@ module.exports = [
          "✓ Judges’ decisions will be final \n",
         event_sponser : "./image/photo1.png",
         event_manager : [
-                            { host_name : ' Dr.G.Rajesh',host_number : "94425231XX"},
-                            { host_name : ' Mr. D. Surendren ',host_number : "94425231XX"},                            
-                            { host_name : ' Vikram Pandian ',host_number : "94425231XX"},                            
-                            { host_name : ' Vijay M N ',host_number : "94425231XX"}                            
+                            { host_name : 'Mr Rajesh',host_number : "8838607955"},
+                            { host_name : 'Mr Surendren ',host_number : "9600670954"},                            
+                            { host_name : 'Appu Kutty',host_number : "6369998479"},                            
                         ]
     },
     {
@@ -95,9 +94,9 @@ module.exports = [
                 "\t▪ Time limit for the second round will be 30 minutes.\n ",
         event_sponser : "./image/photo1.png",
         event_manager : [
-                            { host_name : ' Mrs.R.Gomathi',host_number : "86101595XX"},
-                            { host_name : ' Deepha.P',host_number : "86101595XX"},                            
-                            { host_name : 'Astle Antony ',host_number : "94425231XX"},                            
+                            { host_name : 'Mrs Gomathi',host_number : "8754098868"},
+                            { host_name : 'Ms Deepha',host_number : "8825430240"},                            
+                            { host_name : 'Astle Antony ',host_number : "9787838357"},                            
                         ]
     },
     {
@@ -119,10 +118,9 @@ module.exports = [
         "\to Judges decisions will be final/n",
         event_sponser : "./image/photo1.png",
         event_manager : [
-            { host_name : ' Dr.G.Rajesh ',host_number : "94425231XX"},
-            { host_name : ' Mr.D.Surendren ',host_number : "94425231XX"},
-            { host_name : ' Muthaiya C ',host_number : "94425231XX"},
-            { host_name : ' Anushiya N ',host_number : "94425231XX"},                            
+            { host_name : 'Mr Rajesh',host_number : "8838607955"},
+            { host_name : 'Mr Surendren ',host_number : "9600670954"}, 
+            { host_name : 'Ms Anushiya',host_number : "6381204028"},                            
                         ]
     },
     {
@@ -139,9 +137,9 @@ module.exports = [
         "✓ Judges’ decisions will be final\n",
         event_sponser : "./image/photo1.png",
         event_manager : [
-                            { host_name : ' Mrs.S.Saranya ',host_number : "94425231XX"},
-                            { host_name : ' Vignesh S ',host_number : "94425231XX"},                            
-                            { host_name : 'Swetha R (B Section) ',host_number : "94425231XX"},                            
+                            { host_name : 'Mrs Saranya',host_number : "9578933371"},
+                            { host_name : 'Mr Vignesh ',host_number : "9361967474"},                            
+                            { host_name : 'Ms Swetha R',host_number : "9952517515"},                            
                         ]
     },
     {
@@ -155,12 +153,12 @@ module.exports = [
         "✓ Topic will be provided on the spot.\n"+ 
         "✓ Judges’ decisions will be final./n",
         event_sponser : "./image/photo1.png",
-        event_manager : [
-            { host_name : ' Mrs.P.Sneha ',host_number : "94425231XX"}, 
-            { host_name : ' Kishore Kumar ',host_number : "94425231XX"},
-            { host_name : 'Subiksha ',host_number : "94425231XX"},
-                                     
-                        ]
+        event_manager : 
+        [
+            { host_name : 'Mrs Sneha',host_number : "9965112217"}, 
+            { host_name : 'Mr Kishore Kumar ',host_number : "8825823910"},
+            { host_name : 'Ms Subiksha ',host_number : "9597498261"},                     
+         ]
     },
     {
         event_name : "CONNECTION",
@@ -173,9 +171,9 @@ module.exports = [
         event_sponser : "./image/photo1.png",
         event_manager : 
         [
-            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
-            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
-            { host_name : 'Sakthisri',host_number : "94425231XXx"},                            
+            { host_name : 'Mrs Anitha',host_number : "9342658924"},
+            { host_name : 'Mr Jeevan Prasath',host_number : "9942055321"},
+            { host_name : 'Ms Sakthisri',host_number : "9444967053"},                            
         ]
     },
     {
@@ -190,9 +188,9 @@ module.exports = [
        "✓ A team will get the last hint will be announced as the winner. ",
         event_sponser : "./image/photo1.png",
         event_manager : [
-                            { host_name : 'Mrs. S. Saranya',host_number : "94425231XX"},
-                            { host_name : 'Sanjay Prakash R' ,host_number : "94425231XX"},                            
-                            { host_name : ' Sathya N ',host_number : "94425231XX"},                            
+                            { host_name : 'Mrs Saranya',host_number : "9578933371"},
+                            { host_name : 'Mr Oreo' ,host_number : "6369924104"},                            
+                            { host_name : 'Ms Sathya',host_number : "9087773009"},                            
                         ]
     },
     {
@@ -208,12 +206,12 @@ module.exports = [
         "✓ Photographs should not include any kind of vulgarity or offensive matter.\n"+ 
         "✓ Th judge’s decision will be the final/n",
         event_sponser : "./image/photo1.png",
-        event_manager : [
-            { host_name : ' Mr.S.Boopalan ',host_number : "94425231XX"},
-            { host_name : ' Hariharan S',host_number : "xxx"},
-            { host_name : ' Vikram Pandian K',host_number : "94425231XX"},                            
-            { host_name : 'Monisha ',host_number : "94425231XX"},                            
-                        ]
+        event_manager : 
+        [
+            { host_name : 'Mr Boopalan ',host_number : "9952684608"},
+            { host_name : 'Appu Kutty',host_number : "6369998479"},  
+            { host_name : 'Mr Hariharan S',host_number : "8925696757"},
+         ]
     },
      {
         event_name : "VIDEO EDITING",
@@ -233,10 +231,10 @@ module.exports = [
         event_sponser : "./image/photo1.png",
         event_manager : 
         [
-            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
-            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
-            { host_name : 'Sakthisri',host_number : "94425231XXx"},                            
-        ]
+            { host_name : 'Mr Boopalan ',host_number : "9952684608"},
+            { host_name : 'Appu Kutty',host_number : "6369998479"},  
+            { host_name : 'Mr Hariharan S',host_number : "8925696757"},
+         ]
     },
     {
         event_name : "SHORT FILM",
@@ -253,10 +251,10 @@ module.exports = [
         event_sponser : "./image/photo1.png",
         event_manager : 
         [
-            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
-            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
-            { host_name : 'Sakthisri',host_number : "94425231XXx"},                     
-        ]
+            { host_name : 'Mr Boopalan ',host_number : "9952684608"},
+            { host_name : 'Appu Kutty',host_number : "6369998479"},  
+            { host_name : 'Mr Hariharan S',host_number : "8925696757"},
+         ]
     },
     {
         event_name : "DANCE (Solo / Group)",
@@ -273,9 +271,9 @@ module.exports = [
         event_sponser : "./image/photo1.png",
         event_manager : 
         [
-            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
-            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
-            { host_name : 'Sakthisri',host_number : "94425231XXx"},                     
+
+            { host_name : 'Ms Maru_rice',host_number : "6379997364"},
+            { host_name : 'Mr Dinesh',host_number : "6382759821"},                     
         ]
     },
     {
@@ -293,9 +291,9 @@ module.exports = [
         event_sponser : "./image/photo1.png",
         event_manager : 
         [
-            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
-            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
-            { host_name : 'Sakthisri',host_number : "94425231XXx"},                     
+            { host_name : 'Mrs Sugantha Priya',host_number : "9566926193"},
+            { host_name : 'Ms Madhumathi',host_number : "8300179200"},
+            { host_name : 'Ms Swetha',host_number : "7868938873"},                     
         ]
     },
     {
@@ -312,9 +310,9 @@ module.exports = [
         event_sponser : "./image/photo1.png",
         event_manager : 
         [
-            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
-            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
-            { host_name : 'Sakthisri',host_number : "94425231XXx"},                     
+            { host_name : 'Mrs Sugantha Priya',host_number : "9566926193"},
+            { host_name : 'Ms Madhumathi',host_number : "8300179200"},
+            { host_name : 'Ms Swetha',host_number : "7868938873"},                     
         ]
     },
 ]
