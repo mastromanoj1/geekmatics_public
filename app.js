@@ -57,7 +57,7 @@ console.log(menu_command,"menu")
 bot.on('message',async (msg) => { 
 
 
-    console.log(msg.from.first_name,msg.from.username ,"Name")
+    console.log(msg.from.first_name,msg.from.username,msg.text,"Name")
     let text = msg.text;
     let chat_id = msg.chat.id;
 
