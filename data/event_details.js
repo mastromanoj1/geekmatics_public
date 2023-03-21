@@ -1,26 +1,8 @@
 module.exports = [
     {
-        event_name : "CODE RACE",
-        event_details : 
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
-        "✓ Maximum of 2 teams allowed to participate from a college.\n" +
-        "✓ Each team having a maximum of 2 members. ✓ Events consist of two rounds (Prelims and Final)\n"+
-        "✓ Prelims will be an MCQ based.\n"+ 
-        "✓ In the final round, Participants will be asked to solve one problem within 30 minutes of the time limit.\n"+ 
-        "✓ Participants can be used anyone programming language like Java, Python, C / C++.\n"+ 
-        "✓ Final round will be on the Online Compiler.\n"+
-        "✓ If any team can try to copy the code or any such kind of malpractices, will be disqualified immediately.\n"+ 
-        "✓ Judges’ decisions will be final\n",
-        event_sponser : "./image/photo1.png",
-        event_manager : [
-                            { host_name : ' Mrs.S.Saranya ',host_number : "94425231XX"},
-                            { host_name : ' Vignesh S ',host_number : "94425231XX"},                            
-                            { host_name : 'Swetha R (B Section) ',host_number : "94425231XX"},                            
-                        ]
-    },{
         event_name : "PAPER PRESENTATION",
         event_details :
-        "<b>Venue</b> : Kgisliim Auditorium  \n<b>Time</b> : 10:00 AM \n\n " +
+        "<b>Venue</b> : Kgisliim Auditorium  \n<b>Time</b> :  10:30 AM – 12:30 PM \n\n " +
         "✓ A college can send 2 teams with a maximum of 2 participants each \n " + 
         "✓ Participants can present a PowerPoint presentation on the below-mentioned theme: \n " +
             "\t 1. Internet of Things (IoT) \n "+
@@ -57,7 +39,7 @@ module.exports = [
     {
         event_name : "IDEATHON",
         event_details : 
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 12:00 PM – 01:00 PM \n\n " +
         "✓ A team can have a maximum of 3 students. \n"+
         " ✓ Registration form along with a brief abstract must be filled without any false information.\n"+
           "✓ Participants should present their idea with a PPT and a Prototype.\n"+
@@ -75,13 +57,14 @@ module.exports = [
     {
         event_name : "WEB DESIGN",
         event_details : 
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> :  11:00 AM – 01:00 PM \n\n " +
         "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
-        "✓ Time allotted will be 1 hour. ✓ The participants are given a screenshot of a webpage;they must recreate it using HTML, CSS, and JavaScript.\n"+
-           "✓ Points are awarded based on how fast and accurately they have recreated it./n"+
-            "✓ Images, and logos will be given to the participants.\n"+
-             "✓ Teams involved in any kind of malpractice will be disqualified.\n"+
-              "✓ Software available on the systems: VS Code.\n"+
+        "✓ Time allotted will be 1 hour. \n " +
+        "✓ The participants are given a screenshot of a webpage;they must recreate it using HTML, CSS, and JavaScript.\n"+
+        "✓ Points are awarded based on how fast and accurately they have recreated it. \n"+
+        "✓ Images, and logos will be given to the participants.\n"+
+        "✓ Teams involved in any kind of malpractice will be disqualified.\n"+
+        "✓ Software available on the systems: VS Code.\n"+
          "✓ Judges’ decisions will be final \n",
         event_sponser : "./image/photo1.png",
         event_manager : [
@@ -94,7 +77,7 @@ module.exports = [
     {
         event_name : "QUIZ",
         event_details : 
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 10:30 AM – 12:30 PM \n\n " +
         "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
          "✓ Time allotted will be 1 hour.\n"+
           "✓ Stage rounds: The quiz will have 2 rounds total (Preliminary & Rapid-fire).\n"+  
@@ -120,7 +103,7 @@ module.exports = [
     {
         event_name : "CODE DEBUGGING",
         event_details : 
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> :  01:00 PM – 03:00 PM \n\n " +
         "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
         "✓ Duration of the event will be half an hour. ✓ Bug may be of any type.\n"+
         "✓ The language used will be C/C++/Java/Python.\n"+
@@ -143,9 +126,28 @@ module.exports = [
                         ]
     },
     {
+        event_name : "CODE RACE",
+        event_details : 
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 11:00 AM – 12:00 PM \n\n " +
+        "✓ Maximum of 2 teams allowed to participate from a college.\n" +
+        "✓ Each team having a maximum of 2 members. ✓ Events consist of two rounds (Prelims and Final)\n"+
+        "✓ Prelims will be an MCQ based.\n"+ 
+        "✓ In the final round, Participants will be asked to solve one problem within 30 minutes of the time limit.\n"+ 
+        "✓ Participants can be used anyone programming language like Java, Python, C / C++.\n"+ 
+        "✓ Final round will be on the Online Compiler.\n"+
+        "✓ If any team can try to copy the code or any such kind of malpractices, will be disqualified immediately.\n"+ 
+        "✓ Judges’ decisions will be final\n",
+        event_sponser : "./image/photo1.png",
+        event_manager : [
+                            { host_name : ' Mrs.S.Saranya ',host_number : "94425231XX"},
+                            { host_name : ' Vignesh S ',host_number : "94425231XX"},                            
+                            { host_name : 'Swetha R (B Section) ',host_number : "94425231XX"},                            
+                        ]
+    },
+    {
         event_name : "AD MAD SHOW",
         event_details : 
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 11:00 AM – 01:00 PM \n\n " +
         "✓ A college can send 1 team with a maximum of 3 - 6 participants.\n"+
         "✓ Teams shall be given 5 minutes of preparation time.\n"+
         "✓ The participating team shall be allowed to perform for 3-5 minutes.\n"+ 
@@ -163,22 +165,23 @@ module.exports = [
     {
         event_name : "CONNECTION",
         event_details :
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 01:00 PM – 02:00 PM \n\n " +
         "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+ 
         "✓ The competition will be carried out in 2 Rounds (Preliminary & Finals). \n"+
         "✓ Discussion allowed for 2 minutes.\n"+ 
         "✓ Mobile phones are not allowed. \n",
         event_sponser : "./image/photo1.png",
-        event_manager : [
+        event_manager : 
+        [
             { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
             { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
             { host_name : 'Sakthisri',host_number : "94425231XXx"},                            
-                        ]
+        ]
     },
     {
         event_name : "TREASURE HUNT",
         event_details :
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 11:30 AM – 01:30 PM \n\n " +
         "✓ A college can send 2 teams with a maximum of 4 participants each.\n"+ 
        "✓ Round 1 o General knowledge conducts up to 30 minutes.\n"+ 
        "✓ Round 2 o Main Hunt wants to find. Time duration will be 1.5 Hours.\n"+ 
@@ -195,7 +198,7 @@ module.exports = [
     {
         event_name : "PHOTOGRAPHY",
         event_details :
-        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 10:30 AM – 12:30 PM \n\n " +
         "✓ Individual Event.\n"+ 
         "✓ Campus photography, Portrait photography, Panorama photography & Nature photography. Choose any one theme and submit the 3 best photographs.\n"+ 
         "✓ The photographs that are submitted should be captured within the campus.\n"+ 
@@ -211,5 +214,107 @@ module.exports = [
             { host_name : ' Vikram Pandian K',host_number : "94425231XX"},                            
             { host_name : 'Monisha ',host_number : "94425231XX"},                            
                         ]
-    }
+    },
+     {
+        event_name : "VIDEO EDITING",
+        event_details :
+        "<b>Venue</b> : CLASSROM & INSIDE CAMPUS  \n<b>Time</b> : 10:30 AM – 01:30 PM \n\n " +
+        "✓ Individual Event. \n"+
+        "✓ The topic will provide on the spot. \n"+
+        "✓ 3 participants are allowed per college. \n"+
+        "✓ Duration of the video is 3 minutes. \n"+
+        "✓ Videos recorded on Mobiles, Cameras, and Drones are allowed. \n"+
+        "✓ The clips should not be from movies, Promos, or short films. \n"+
+        "✓ The judge’s decision will be the final \n"+
+        "✓ The competitors must include their Name, Department, and College Name at the End of the Promo Video. \n"+
+        "✓ Participants must bring their Laptop / Mobile to edit the footage. \n"+
+        "✓ Winners will be selected based on Editing skills & Creativity. \n",
+      
+        event_sponser : "./image/photo1.png",
+        event_manager : 
+        [
+            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
+            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
+            { host_name : 'Sakthisri',host_number : "94425231XXx"},                            
+        ]
+    },
+    {
+        event_name : "SHORT FILM",
+        event_details :
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 10:30 AM – 12:30 PM \n\n " +
+        "✓ Maximum of 2 teams allowed to participate from a college. \n " +
+        "✓ Each team has a maximum of 4 members. \n " +
+        "✓ Duration of the video is 5 minutes.  \n " +
+        "✓ The clips should not be from movies, Promos, or other short films. \n " +
+        "✓ Music can use of any type. \n " +
+        "✓ Short films should be uploaded to Google drive and shared the Link on the website (www.geekmatics.in/login.php). \n "+ 
+        "✓ The judge’s decision will be the final. \n " ,
+      
+        event_sponser : "./image/photo1.png",
+        event_manager : 
+        [
+            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
+            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
+            { host_name : 'Sakthisri',host_number : "94425231XXx"},                     
+        ]
+    },
+    {
+        event_name : "DANCE (Solo / Group)",
+        event_details :
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 03:00 PM – 04:30 PM \n\n " +
+        " ✓ Maximum of 2 teams allowed to participate from a college. \n " +
+        " ✓ Each team has a maximum of 3 - 6 members. \n " +
+        " ✓ Time allotted 3-5 minutes. \n " +
+        " ✓ Props are allowed (No use of fire on stage). \n " +
+        " ✓ Vulgar/absence songs will lead to disqualification. \n " +
+        " ✓ The judge’s decision will be the final. \n " +
+        " ✓ The music file should be sent to support@geekmatics.in by attaching their college name, department name, and the participant’s name on or before 23/03/2023 \n " ,
+      
+        event_sponser : "./image/photo1.png",
+        event_manager : 
+        [
+            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
+            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
+            { host_name : 'Sakthisri',host_number : "94425231XXx"},                     
+        ]
+    },
+    {
+        event_name : "RANGOLI",
+        event_details :
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : 10:30 AM – 11:30 AM \n\n " +
+        "✓ Maximum of 2 teams allowed to participate from a college. \n " +
+        "✓ Each team has a maximum of 4 members. \n " +
+        "✓ Maximum time allowed will be 1 hour. \n " +
+        "✓ Participants are not allowed to refer to any materials. \n " +
+        "✓ All the participants must carry their material for rangoli. \n " +
+        "✓ Size of RANGOLI will be 4’x’4 feet. \n " +
+        "✓ The topic/theme will provide on the spot \n " ,
+      
+        event_sponser : "./image/photo1.png",
+        event_manager : 
+        [
+            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
+            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
+            { host_name : 'Sakthisri',host_number : "94425231XXx"},                     
+        ]
+    },
+    {
+        event_name : "MEHANDI",
+        event_details :
+        "<b>Venue</b> : /need_to_be_updated/  \n <b>Time</b> : 12:30 PM – 01:30 PM \n\n " +
+        "✓ Maximum of 2 teams allowed from a college. \n " +
+        "✓ Two members per team. \n " +
+        "✓ Maximum time allowed will be 1 hour. \n " +
+        "✓ A team must have 2 participants, one artist and the other subject (Model). \n " +
+        "✓ Mehandi design must cover one hand and must be covered on both sides of the palm (palmer as well as the dorsal side of the hand). \n " +
+        "✓ Topic: Bridal Mehandi \n " ,
+      
+        event_sponser : "./image/photo1.png",
+        event_manager : 
+        [
+            { host_name : 'Mrs.S.Anitha',host_number : "94425231XX"},
+            { host_name : 'Jeevan Prasath',host_number : "94425231XX"},
+            { host_name : 'Sakthisri',host_number : "94425231XXx"},                     
+        ]
+    },
 ]
