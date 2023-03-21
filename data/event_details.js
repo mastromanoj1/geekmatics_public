@@ -172,7 +172,7 @@ module.exports = [
         event_manager : 
         [
             { host_name : 'Mrs Anitha',host_number : "9342658924"},
-            { host_name : 'Mr Jeevan Prasath',host_number : "9942055321"},
+            { host_name : 'Mr Palani',host_number : "6381777414"},
             { host_name : 'Ms Sakthisri',host_number : "9444967053"},                            
         ]
     },
