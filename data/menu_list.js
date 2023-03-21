@@ -9,11 +9,11 @@ module.exports = [
     },
     {
         command : "/result",
-        reply : "📍 The geeks are awaited to enter the room to express their talents. The preliminary shows will kickstart by 11:00 AM"
+        reply : "📍 Select the event name from the Inline Keyborad"
     },
     {
         command : "/events",
-        reply : "Select the event name from the Inline Keyborad"
+        reply : "📍 Select the event name from the Inline Keyborad"
     },
     {
         command : "/feedback",

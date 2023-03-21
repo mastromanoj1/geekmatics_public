@@ -1,9 +1,28 @@
 module.exports = [
     {
+        event_name : "CODE RACE",
+        event_details : 
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ Maximum of 2 teams allowed to participate from a college.\n" +
+        "✓ Each team having a maximum of 2 members. ✓ Events consist of two rounds (Prelims and Final)\n"+
+        "✓ Prelims will be an MCQ based.\n"+ 
+        "✓ In the final round, Participants will be asked to solve one problem within 30 minutes of the time limit.\n"+ 
+        "✓ Participants can be used anyone programming language like Java, Python, C / C++.\n"+ 
+        "✓ Final round will be on the Online Compiler.\n"+
+        "✓ If any team can try to copy the code or any such kind of malpractices, will be disqualified immediately.\n"+ 
+        "✓ Judges’ decisions will be final\n",
+        event_sponser : "./image/photo1.png",
+        event_manager : [
+                            { host_name : ' Mrs.S.Saranya ',host_number : "94425231XX"},
+                            { host_name : ' Vignesh S ',host_number : "94425231XX"},                            
+                            { host_name : 'Swetha R (B Section) ',host_number : "94425231XX"},                            
+                        ]
+    },{
         event_name : "PAPER PRESENTATION",
-        event_details : "✓ A college can send 2 teams with a maximum of 2 participants each \n\n " + 
+        event_details :
+        "<b>Venue</b> : Kgisliim Auditorium  \n<b>Time</b> : 10:00 AM \n\n " +
+        "✓ A college can send 2 teams with a maximum of 2 participants each \n " + 
         "✓ Participants can present a PowerPoint presentation on the below-mentioned theme: \n " +
-         
             "\t 1. Internet of Things (IoT) \n "+
             "\t 2. Cryptocurrency \n "+
             "\t 3. Cybersecurity \n "+
@@ -16,8 +35,7 @@ module.exports = [
             "\t 10. Recent technologies in Web Development \n "+
             "\t 11. AI and VR applications for Health care \n "+
             "\t 12. Edge Computing \n "+
-            "\t 13. Scalability issues and solutions for AI/ML and deep learning \n\n  "+
-
+            "\t 13. Scalability issues and solutions for AI/ML and deep learning \n  "+
         "✓ All participants are only allowed to use the presentation that has been submitted before.\n" +
        "✓ Participants are requested to converse in English language during presentation. \n" +
        "✓ Each participant is required to make a presentation file (PowerPoint) in English based on his/her paper. \n"+
@@ -38,7 +56,9 @@ module.exports = [
     },
     {
         event_name : "IDEATHON",
-        event_details : "✓ A team can have a maximum of 3 students. \n"+
+        event_details : 
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ A team can have a maximum of 3 students. \n"+
         " ✓ Registration form along with a brief abstract must be filled without any false information.\n"+
           "✓ Participants should present their idea with a PPT and a Prototype.\n"+
           " ✓ Copying of idea is strictly prohibited.\n"+
@@ -54,7 +74,9 @@ module.exports = [
     },
     {
         event_name : "WEB DESIGN",
-        event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
+        event_details : 
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
         "✓ Time allotted will be 1 hour. ✓ The participants are given a screenshot of a webpage;they must recreate it using HTML, CSS, and JavaScript.\n"+
            "✓ Points are awarded based on how fast and accurately they have recreated it./n"+
             "✓ Images, and logos will be given to the participants.\n"+
@@ -71,7 +93,9 @@ module.exports = [
     },
     {
         event_name : "QUIZ",
-        event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
+        event_details : 
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
          "✓ Time allotted will be 1 hour.\n"+
           "✓ Stage rounds: The quiz will have 2 rounds total (Preliminary & Rapid-fire).\n"+  
           "o Round 1:\n"+ 
@@ -94,8 +118,10 @@ module.exports = [
                         ]
     },
     {
-        event_name : "CODE DEBUGGING ",
-        event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
+        event_name : "CODE DEBUGGING",
+        event_details : 
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+
         "✓ Duration of the event will be half an hour. ✓ Bug may be of any type.\n"+
         "✓ The language used will be C/C++/Java/Python.\n"+
         "✓ Stage rounds: The debugging will have 2 rounds total (Preliminary & Debugging).\n"+
@@ -117,30 +143,15 @@ module.exports = [
                         ]
     },
     {
-        event_name : " CODE RACE ",
-        event_details : "✓ Maximum of 2 teams allowed to participate from a college.\n" +
-        "✓ Each team having a maximum of 2 members. ✓ Events consist of two rounds (Prelims and Final)\n"+
-        "✓ Prelims will be an MCQ based.\n"+ 
-        "✓ In the final round, Participants will be asked to solve one problem within 30 minutes of the time limit.\n"+ 
-        "✓ Participants can be used anyone programming language like Java, Python, C / C++.\n"+ 
-        "✓ Final round will be on the Online Compiler.\n"+
-        "✓ If any team can try to copy the code or any such kind of malpractices, will be disqualified immediately.\n"+ 
-        "✓ Judges’ decisions will be final\n",
-        event_sponser : "./image/photo1.png",
-        event_manager : [
-                            { host_name : ' Mrs.S.Saranya ',host_number : "94425231XX"},
-                            { host_name : ' Vignesh S ',host_number : "94425231XX"},                            
-                            { host_name : 'Swetha R (B Section) ',host_number : "94425231XX"},                            
-                        ]
-    },
-    {
         event_name : "AD MAD SHOW",
-        event_details : "✓ A college can send 1 team with a maximum of 3 - 6 participants.\n"+
-      "✓ Teams shall be given 5 minutes of preparation time.\n"+
-      "✓ The participating team shall be allowed to perform for 3-5 minutes.\n"+ 
-      "✓ Content Restrictions. No vulgarity.\n"+ 
-      "✓ Topic will be provided on the spot.\n"+ 
-      "✓ Judges’ decisions will be final./n",
+        event_details : 
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ A college can send 1 team with a maximum of 3 - 6 participants.\n"+
+        "✓ Teams shall be given 5 minutes of preparation time.\n"+
+        "✓ The participating team shall be allowed to perform for 3-5 minutes.\n"+ 
+        "✓ Content Restrictions. No vulgarity.\n"+ 
+        "✓ Topic will be provided on the spot.\n"+ 
+        "✓ Judges’ decisions will be final./n",
         event_sponser : "./image/photo1.png",
         event_manager : [
             { host_name : ' Mrs.P.Sneha ',host_number : "94425231XX"}, 
@@ -150,8 +161,10 @@ module.exports = [
                         ]
     },
     {
-        event_name : "CONNECTION ",
-        event_details : "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+ 
+        event_name : "CONNECTION",
+        event_details :
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ A college can send 2 teams with a maximum of 2 participants each.\n"+ 
         "✓ The competition will be carried out in 2 Rounds (Preliminary & Finals). \n"+
         "✓ Discussion allowed for 2 minutes.\n"+ 
         "✓ Mobile phones are not allowed. \n",
@@ -163,8 +176,10 @@ module.exports = [
                         ]
     },
     {
-        event_name : " TREASURE HUNT ",
-        event_details : "✓ A college can send 2 teams with a maximum of 4 participants each.\n"+ 
+        event_name : "TREASURE HUNT",
+        event_details :
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ A college can send 2 teams with a maximum of 4 participants each.\n"+ 
        "✓ Round 1 o General knowledge conducts up to 30 minutes.\n"+ 
        "✓ Round 2 o Main Hunt wants to find. Time duration will be 1.5 Hours.\n"+ 
        "✓ Mobile phones are not allowed.\n "+
@@ -178,8 +193,10 @@ module.exports = [
                         ]
     },
     {
-        event_name : "PHOTOGRAPHY ",
-        event_details : "✓ Individual Event.\n"+ 
+        event_name : "PHOTOGRAPHY",
+        event_details :
+        "<b>Venue</b> : /need_to_be_updated/  \n<b>Time</b> : /need_to_be_updated/ \n\n " +
+        "✓ Individual Event.\n"+ 
         "✓ Campus photography, Portrait photography, Panorama photography & Nature photography. Choose any one theme and submit the 3 best photographs.\n"+ 
         "✓ The photographs that are submitted should be captured within the campus.\n"+ 
         "✓ No edits, no filters. \n"+
